@@ -1,6 +1,6 @@
 package main
 
-# comment
+# should trigger using **.go
 
 func main() {
 
